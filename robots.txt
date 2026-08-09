@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: nedorogoy-depozit.github.io
+Sitemap: https://nedorogoy-depozit.github.io/sitemap.xml
